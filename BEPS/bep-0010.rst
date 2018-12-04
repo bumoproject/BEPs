@@ -2,7 +2,7 @@
 bep: 10
 title: BUMO ATP Standard
 author: BUMO
-type: Standards Track
+type: Protocol
 category: ATP
 status: Final
 created: 2018-12-04
