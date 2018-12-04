@@ -9,3 +9,12 @@ Bumo Enhancement Proposals (BEPs) describe standards for the Bumo platform, incl
  4. Submit a Pull Request to Bumo's [BEPs repository](https://github.com/bumoproject/BEPs).
 
 # Contents
+BUMO projects need a way how to document their technical decisions and features. For some of them BUMO Enhancement Proposal (BIP) is not a right place because their range and implications are outside of the scope of BUMO and cryptocurrencies.
+
+| Number                         | Title                                                                 | Type          | Status   |
+|--------------------------------|-----------------------------------------------------------------------|---------------|----------|
+| [BEP-0001](BEPS/bep-0001.md)   | Introduction                                                          | Standard      | Draft    |
+| [BEP-0010](BEPS/bep-0010.rst)  | ATP                                                                   | Standard      | Draft    |
+| [BEP-0020](BEPS/bep-0020.rst)  | CTP                                                                   | Standard      | Draft    |
+| [BEP-0044](BEPS/bep-0044.md)   | BEP Format                                                            | Standard      | Draft    |
+| [BEP-x](BEPS/bep-x.md)         | Template                                                              | Standard      | Draft    |
