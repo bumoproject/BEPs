@@ -14,4 +14,4 @@ BUMO projects need a way how to document their technical decisions and features.
 | Number                         | Title                                                                 | Type          | Status   |
 |--------------------------------|-----------------------------------------------------------------------|---------------|----------|
 | [BEP-0010](BEPS/bep-0010.rst)  | ATP                                                                   | Standar       | Draft    |
-| [BEP-0010](BEPS/bep-0020.rst)  | CTP                                                                   | Standard      | Draft    |
+| [BEP-0020](BEPS/bep-0020.rst)  | CTP                                                                   | Standard      | Draft    |
