@@ -11,7 +11,7 @@ Bumo Enhancement Proposals (BEPs) describe standards for the Bumo platform, incl
 # Contents
 BUMO projects need a way how to document their technical decisions and features. For some of them BUMO Enhancement Proposal (BIP) is not a right place because their range and implications are outside of the scope of BUMO and cryptocurrencies.
 
-| Number                    | Title                                                                 | Type          | Status   |
-|---------------------------|-----------------------------------------------------------------------|---------------|----------|
-| [BEP-0010](bep-0010.rst)  | ATP                                                                   | Standar       | Draft    |
-| [BEP-0010](bep-0020.rst)  | CTP                                                                   | Standard      | Draft    |
+| Number                         | Title                                                                 | Type          | Status   |
+|--------------------------------|-----------------------------------------------------------------------|---------------|----------|
+| [BEP-0010](BEPS/bep-0010.rst)  | ATP                                                                   | Standar       | Draft    |
+| [BEP-0010](BEPS/bep-0020.rst)  | CTP                                                                   | Standard      | Draft    |
