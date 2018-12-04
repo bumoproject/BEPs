@@ -3,7 +3,7 @@ bep: 20
 title: BUMO CTP Standard
 author: BUMO
 type: Protocol
-category: ATP
+category: CTP
 status: Final
 created: 2018-12-04
 ---
