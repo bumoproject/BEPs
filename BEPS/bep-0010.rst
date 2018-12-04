@@ -1,5 +1,5 @@
 ---
-eip: 0010
+eip: 10
 title: BUMO ATP Standard
 author: BUMO
 type: Standards Track
